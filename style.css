@@ -1,0 +1,91 @@
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: black;
+  font: Verdana;
+
+}
+
+h2 {
+  font: Verdana;
+  text-transform: uppercase;
+}
+h6{
+  text-align: center;
+  font:Verdana;
+  color: white;
+  font-size: 16px;
+}
+
+a {
+  font: Verdana;
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+h1.ret {
+ text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a.button,div.container{
+
+}
+
+div {
+  text-align: center;
+}
+ img {
+   display: inline-block;
+   text-align: center
+ }
+
+ p {
+   font: Verdana;
+   color: black;
+ }
+
+h2.under_line {
+  text-decoration: underline;
+}
+
+ .center {
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%
+ }
+
+ .small-left {
+  display:inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width:2.5%
+}
+
+a.button {
+ background-color: black;
+ border-radius:12px;
+ color:#fff;
+ margin-right:10px;
+ padding:10px 10px;
+ display: inline-block;
+ text-align:center;
+}
+
+#offerings {
+  background-color: blue;
+  border-radius: 12px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-transform: uppercase;
+
+}
